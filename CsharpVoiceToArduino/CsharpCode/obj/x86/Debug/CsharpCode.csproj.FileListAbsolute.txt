@@ -1,0 +1,26 @@
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\bin\Debug\CsharpCode.exe
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\bin\Debug\CsharpCode.pdb
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.Form1.resources
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.Properties.Resources.resources
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.csproj.GenerateResource.Cache
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.exe
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.pdb
+D:\Arduino based Projects\Voice Recogniton\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.csprojResolveAssemblyReference.cache
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\bin\Debug\CsharpCode.exe
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\bin\Debug\CsharpCode.pdb
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.csprojAssemblyReference.cache
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.Form1.resources
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.Properties.Resources.resources
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.csproj.GenerateResource.cache
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.exe
+C:\Users\Cobretti\Desktop\CsharpCode\CsharpCode\obj\x86\Debug\CsharpCode.pdb
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.csprojAssemblyReference.cache
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.Form1.resources
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.Properties.Resources.resources
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.csproj.GenerateResource.cache
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.exe
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Debug\CsharpCode.pdb
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\bin\Debug\CsharpCode.exe
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\bin\Debug\CsharpCode.pdb

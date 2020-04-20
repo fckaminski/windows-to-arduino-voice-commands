@@ -1,0 +1,8 @@
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\bin\Release\CsharpCode.exe
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\bin\Release\CsharpCode.pdb
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.Form1.resources
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.Properties.Resources.resources
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.csproj.GenerateResource.cache
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.exe
+C:\Users\Cobretti\Desktop\Arduino\VoiceToArduino\CsharpCode\obj\x86\Release\CsharpCode.pdb

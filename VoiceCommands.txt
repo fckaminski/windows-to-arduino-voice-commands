@@ -1,0 +1,35 @@
+Arduino voice recognition configuration file
+
+---parameters---
+Confidence:93%
+Firebase_path:"https://your_firebase.firebaseio.com/"
+Firebase_auth:"xMOIloBC5b7ucMRpovkrTgA9qKnmKMckzj3hePOy"
+
+---voice commands:string to Arduino---
+Blue On:B
+Blue Off:b
+Red On:R
+Red Off:r
+Green On:G
+Green Off:g
+
+---voice commands:speech synth answers---
+Blue On:Blue led is now on
+Blue Off:Blue led is now off
+Red On:Red led is now on
+Red Off:Red led is now off
+Green On:Green led is now on
+Green Off:Green led is now off
+
+How are you: I'm fine, thanks!
+What's your favorite food: Hamburgers!
+Credits: Fernando and Gabriel
+Stop Listening: Bye bye
+
+---voice commands:Firebase child:Firebase value ---
+Blue On:\leds\blue_led:ON
+Blue Off:\leds\blue_led:OFF
+Red On:\leds\red_led:ON
+Red Off:\leds\red_led:OFF
+Green On:\leds\green_led:ON
+Green Off:\leds\green_led:OFF
